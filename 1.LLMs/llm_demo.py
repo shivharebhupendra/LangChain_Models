@@ -1,3 +1,5 @@
+# Open AI is Paid Service
+
 from langchain_openai import OpenAI
 from dotenv import load_dotenv
 
